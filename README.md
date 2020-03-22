@@ -1,2 +1,1 @@
-# hello-world
-qqqqqq
+npm install -g javascripting
